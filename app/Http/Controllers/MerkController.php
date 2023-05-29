@@ -10,4 +10,9 @@ class MerkController extends Controller
     {
         return view('pages.merk.index');
     }
+
+    function create()
+    {
+        return view('pages.merk.create');
+    }
 }
