@@ -16,7 +16,7 @@ class Mobil extends Model
         'cc',
         'tahun_mobil',
         'warna',
-        'warna_polisi',
+        'nomor_polisi',
         'merk_id',
         'tipe_mobil_id',
         'foto'
